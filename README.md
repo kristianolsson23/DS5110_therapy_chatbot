@@ -2,7 +2,7 @@
 
 **Abstract**
 
-With the release and popularity of large language models
+  With the release and popularity of large language models
 such as ChatGPT and Gemini, assistant-style chatbots are
 readily available to online users everywhere. Although these
 models are trained to be helpful, respectful, and safe for users,
@@ -19,7 +19,8 @@ aims to provide immediate, confidential, and empathetic sup-
 port for individuals seeking mental health assistance, serving
 as a first step towards professional help or as a supplementary
 tool for ongoing therapy.
-The secondary goal of the project is to implement a Ray
+
+  The secondary goal of the project is to implement a Ray
 cluster of workers to allocate the training workload among
 multiple workers. We wish to see how this implementation
 will improve the therapy chatbot with respect to training ef-
