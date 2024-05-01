@@ -28,4 +28,4 @@ worker nodes.
 The mental health dataset of therapy conversations which was created with the users
 question or input and a synthetic chatgpt response linked here.
 
-(LlaMa 2)[https://huggingface.co/meta-llama/Llama-2-7b-chat-hf]
+(https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)[LlaMa 2]
