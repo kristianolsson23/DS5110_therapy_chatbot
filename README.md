@@ -25,7 +25,6 @@ will improve the therapy chatbot with respect to training efficiency. We aim to 
 one will act as the host node and the others will act as the
 worker nodes.
 
-The mental health dataset of therapy conversations which was created with the users
-question or input and a synthetic chatgpt response linked here.
+[The mental health dataset of therapy conversations, which was created with the user input and a synthetic ChatGPT response, linked here](https://huggingface.co/datasets/vibhorag101/phr_mental_therapy_dataset)
 
-(https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)[LlaMa 2]
+[LlaMa 2 (7b parameters), an open source large language model created by Meta which we fine-tuned, linked here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
